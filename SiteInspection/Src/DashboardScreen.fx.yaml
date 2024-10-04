@@ -24,7 +24,7 @@ DashboardScreen As screen:
         PressedColor: =TextBox1_13.Color
         PressedFill: =TextBox1_13.Fill
         Size: =20
-        Text: ="Site inspection "
+        Text: ="Site inspection Table"
         Width: =212
         X: =406
         ZIndex: =2
