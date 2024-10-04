@@ -52,7 +52,7 @@ NewInspectionScreen As screen:
         PressedColor: =TextBox1_9.Color
         PressedFill: =TextBox1_9.Fill
         Size: =20
-        Text: ="New inspection"
+        Text: ="New inspectionneut"
         Width: =229
         X: =397.5
         ZIndex: =4
